@@ -1,7 +1,19 @@
 #### This is where I keep school projects that managed to make it into a repo
 
 - ##### CSharpNet Software Development(CS3260)
-	[Lab01-CmdLineArguments](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_01)
+	[Lab01-CmdLineArguments](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_01)  
+	[Lab02A-MinMaxValues](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_02A)  
+	[Lab02B-ElectricalResistors](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_02B)  
+	[Lab03-Banking Program Phase One](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_03)  
+	[Lab04-Banking Program Phase Two](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_04)  
+	[Lab05-Banking Program Phase Three](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_05)  
+	[Lab06-Stock Tracker](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab06)  
+	[Lab07-Banking Program Phase Four](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_07)  
+	[Lab08-Banking Program Phase Five_GUIv1.0](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_08)  
+	[Lab10-LINQ Queries](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_10)  
+	[Lab11-LINQ to XML](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_11)  
+	[Lab12-Text File Line Counter (Async/Threading)(MAUI)](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_12)  
+	[Lab13-Image File Rotator (MAUI)](https://github.com/AndrewDTodd-SchoolProjects/CS3260-Lab_13)  
 
 - ##### Principles and Patterns of Software Design(CS3450)
 	[Abstract-Factory Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-AbstractFactoryProgram)  
