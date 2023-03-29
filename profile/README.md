@@ -19,3 +19,5 @@
 	[Abstract-Factory Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-AbstractFactoryProgram)  
 	[Singleton Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-SingletonProgram)  
 	[Command Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-CommandPatternProgram)  
+	[Addapter Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-AdapterPatternProgram)  
+	[Template Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-TemplatePatternProgram)  
