@@ -21,3 +21,4 @@
 	[Command Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-CommandPatternProgram)  
 	[Addapter Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-AdapterPatternProgram)  
 	[Template Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-TemplatePatternProgram)  
+	[Composite Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-CompositePatternProgram)
