@@ -22,4 +22,5 @@
 	[Addapter Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-AdapterPatternProgram)  
 	[Template Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-TemplatePatternProgram)  
 	[Composite Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-CompositePatternProgram)  
-	[Visitor Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-VisitorPatternProgram)
+	[Visitor Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-VisitorPatternProgram)  
+	[State Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-StatePatternProgram)
