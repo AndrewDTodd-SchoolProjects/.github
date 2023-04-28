@@ -24,4 +24,5 @@
 	[Composite Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-CompositePatternProgram)  
 	[Visitor Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-VisitorPatternProgram)  
 	[State Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-StatePatternProgram)  
-	[Proxy Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-ProxyPatternProgram)
+	[Proxy Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-ProxyPatternProgram)  
+	[Compound Patterns](https://github.com/AndrewDTodd-SchoolProjects/CS3450-CompoundPatternProgram)
