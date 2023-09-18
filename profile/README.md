@@ -25,7 +25,8 @@
 	[Visitor Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-VisitorPatternProgram)  
 	[State Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-StatePatternProgram)  
 	[Proxy Pattern](https://github.com/AndrewDTodd-SchoolProjects/CS3450-ProxyPatternProgram)  
-	[Compound Patterns](https://github.com/AndrewDTodd-SchoolProjects/CS3450-CompoundPatternProgram)
+	[Compound Patterns](https://github.com/AndrewDTodd-SchoolProjects/CS3450-CompoundPatternProgram)  
 
 - ##### Analysis of Algorithms(CS3310)
-  	[Project1-Karatsuba Algorithm](https://github.com/AndrewDTodd-SchoolProjects/CS3310-Project1_KaratsubaAlgorithm)
+  	[Project1-Karatsuba Algorithm](https://github.com/AndrewDTodd-SchoolProjects/CS3310-Project1_KaratsubaAlgorithm)  
+  	[Project2-Merge Sort to Count Inversions](https://github.com/AndrewDTodd-SchoolProjects/CS3310-Project2_MergeSortInversionCount)  
