@@ -29,7 +29,8 @@
 
 - ##### Analysis of Algorithms(CS3310)
   	[Project1-Karatsuba Algorithm](https://github.com/AndrewDTodd-SchoolProjects/CS3310-Project1_KaratsubaAlgorithm)  
-  	[Project2-Merge Sort to Count Inversions](https://github.com/AndrewDTodd-SchoolProjects/CS3310-Project2_MergeSortInversionCount)
+  	[Project2-Merge Sort to Count Inversions](https://github.com/AndrewDTodd-SchoolProjects/CS3310-Project2_MergeSortInversionCount)  
+  	[Project3-Randomization in Sort and Select](https://github.com/AndrewDTodd-SchoolProjects/CS3310-Project3_Randomization/tree/master)  
 
 - ##### Analysis of Programming Languages(CS4450)
   	[Project2-Chapter5_SML_DecompCPP](https://github.com/AndrewDTodd-SchoolProjects/CS4450-Project2_Chapter5)  
