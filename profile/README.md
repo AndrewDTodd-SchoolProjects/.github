@@ -36,6 +36,7 @@
   	[Project2-Chapter5_SML_DecompCPP](https://github.com/AndrewDTodd-SchoolProjects/CS4450-Project2_Chapter5)  
   	[Project3-Chapter7_SML](https://github.com/AndrewDTodd-SchoolProjects/CS4450-Project3_Chapter7)  
   	[Project4-Chapter9_SML](https://github.com/AndrewDTodd-SchoolProjects/CS4450-Project4_Chapter9)  
+  	[Project5-Chapter11_SML_AdditionalProblems](https://github.com/AndrewDTodd-SchoolProjects/CS4450-Project5_Chapter11)  
 
 - ##### Networking II(CS2690)
   	[Project1-WSEchoClient](https://github.com/AndrewDTodd-SchoolProjects/CS2690-Program1_WSEchoClient/tree/master)  
