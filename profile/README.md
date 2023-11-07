@@ -38,6 +38,7 @@
   	[Project3-Chapter7_SML](https://github.com/AndrewDTodd-SchoolProjects/CS4450-Project3_Chapter7)  
   	[Project4-Chapter9_SML](https://github.com/AndrewDTodd-SchoolProjects/CS4450-Project4_Chapter9)  
   	[Project5-Chapter11_SML_AdditionalProblems](https://github.com/AndrewDTodd-SchoolProjects/CS4450-Project5_Chapter11)  
+  	[Project7-RustModuleOne](https://github.com/AndrewDTodd-SchoolProjects/CS4450-Project7_RustOne)  
 
 - ##### Networking II(CS2690)
   	[Project1-WSEchoClient](https://github.com/AndrewDTodd-SchoolProjects/CS2690-Program1_WSEchoClient/tree/master)  
