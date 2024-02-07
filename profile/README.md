@@ -53,5 +53,5 @@
 
 - ##### Web I (CS2550)
  	[Lab 1](https://github.com/AndrewDTodd-SchoolProjects/CS2550-Lab_01)  
-
+	[Lab 2](https://github.com/AndrewDTodd-SchoolProjects/CS2550-Lab_02)  
  	
