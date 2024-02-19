@@ -50,6 +50,7 @@
 - ##### Numerical Software Development(CS3320)
 	[Program1-Mathmatical Ulps Calc](https://github.com/AndrewDTodd-SchoolProjects/CS3320-Program1_ULPS/tree/main)  
 	[Program2-Float Utilities](https://github.com/AndrewDTodd-SchoolProjects/CS3320-Program2_FLOAT_UTIL/tree/main)  
+	[Program3-Sine](https://github.com/AndrewDTodd-SchoolProjects/CS3320-Program3_Sine)  
 	[Program4-Regula Falsi](https://github.com/AndrewDTodd-SchoolProjects/CS3320-Program4_RegulaFalsi)  
 
 - ##### Web I (CS2550)
