@@ -64,5 +64,6 @@
   	[Lab 7](https://github.com/AndrewDTodd-SchoolProjects/CS2550-Lab_07)  
   	[Lab 8](https://github.com/AndrewDTodd-SchoolProjects/CS2550-Lab_08)  
   	[Lab 9](https://github.com/AndrewDTodd-SchoolProjects/CS2550-Lab_09)  
+  	[Lab 1o](https://github.com/AndrewDTodd-SchoolProjects/CS2550-Lab_10)  
   	[Project 1](https://github.com/AndrewDTodd-SchoolProjects/CS2550-Project_01)  
   	[Project 2](https://github.com/AndrewDTodd-SchoolProjects/CS2550-Project_02)  
