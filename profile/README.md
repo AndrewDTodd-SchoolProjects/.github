@@ -53,6 +53,7 @@
 	[Program3-Sine](https://github.com/AndrewDTodd-SchoolProjects/CS3320-Program3_Sine)  
 	[Program4-Regula Falsi](https://github.com/AndrewDTodd-SchoolProjects/CS3320-Program4_RegulaFalsi)  
 	[Program5-Hybrid Root Finder](https://github.com/AndrewDTodd-SchoolProjects/CS3320-Program5_HybridRootFinder)  
+	[Program6-LUFactorization](https://github.com/AndrewDTodd-SchoolProjects/CS3320-Program6_LUFactorization)  
 
 - ##### Web I (CS2550)
  	[Lab 1](https://github.com/AndrewDTodd-SchoolProjects/CS2550-Lab_01)  
